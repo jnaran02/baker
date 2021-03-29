@@ -1,0 +1,64 @@
+body {
+    margin: 0%;
+}
+
+
+.img {
+   width: 100%;
+   height: 35em;
+}
+
+h1 {
+    font-size: 200%;
+    color: white;
+}
+.doble {
+    color: blue;
+}
+.color {
+    color: white;
+}
+
+.navbar-toggler-icon {
+    color: whitesmoke;
+}
+
+.btn {
+    border-radius: 20px;
+    border-color: blue;
+    border-width: 2px;
+    padding-left: 2%;
+    padding-right: 2%;
+    color: white;
+}
+#izquierda {
+    background-color: blue;
+    opacity: 0.6;
+}
+
+.fa-lightbulb {
+    color: black;
+    font-size: 500%;
+}
+
+.fa-camera-retro{
+    color: red;
+    font-size: 500%;
+}
+
+.fa-coins {
+    color: orange;
+    font-size: 500%;
+}
+.fa-lock {
+    color: black;
+    font-size: 500%;
+}
+
+.card-title {
+    color: white;
+}
+
+.collapse {
+    border-color: black;
+}
